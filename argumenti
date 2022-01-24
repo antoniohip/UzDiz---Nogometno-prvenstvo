@@ -1,0 +1,1 @@
+-s DZ2_sastavi_utakmica.csv -i DZ2_igraci.csv -u DZ2_utakmice.csv -k DZ2_klubovi.csv -d DZ2_dogadaji.csv
